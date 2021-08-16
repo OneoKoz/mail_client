@@ -1,0 +1,10 @@
+css:text/css
+csv:text/csv
+html:text/html
+htm:text/html
+js:text/javascript
+:text/plain
+doc:text/plain
+php:text/php
+xml:text/xml
+markdown:text/markdown

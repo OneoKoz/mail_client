@@ -1,0 +1,14 @@
+gif:image/gif
+jpg:image/jpeg
+jpeg:image/jpeg
+JPG:image/jpeg
+JPEG:image/jpeg
+PNG:image/png
+png:image/png
+svg:image/svg+xml
+svgz:image/svg+xml
+tif:image/tiff
+tiff:image/tiff
+ico:image/vnd.microsoft.icon
+wbmp:image/vnd.wap.wbmp
+webp:image/webp

@@ -1,0 +1,12 @@
+json:application/json
+js:application/javascript
+pdf:application/pdf
+ps:application/postscript
+html:application/xhtml+xml
+xhtml:application/xhtml+xml
+xht:application/xhtml+xml
+htm:application/xhtml+xml
+zip:application/zip
+zipx:application/zip
+gzip:application/gzip
+xml:application/xml

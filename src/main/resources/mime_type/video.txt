@@ -1,0 +1,6 @@
+mp4:video/mp4
+avi:video/x-msvideo
+3gpp:video/3gpp
+3gp:video/3gpp
+3gpp2:video/3gpp2
+3g2:video/3gpp2
